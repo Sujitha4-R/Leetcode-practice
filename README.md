@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -25,15 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0067-add-binary) |
 | [0782-jewels-and-stones](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0782-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
