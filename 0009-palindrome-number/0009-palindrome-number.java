@@ -10,8 +10,8 @@ class Solution {
         if(rev==y){
             return true;
         }
-        else{
+       
         return false;
-        }
+        
     }
 }
