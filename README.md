@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
