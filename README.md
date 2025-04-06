@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0043-multiply-strings) |
+| [0782-jewels-and-stones](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0782-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/Sujitha4-R/Leetcode-practice/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
